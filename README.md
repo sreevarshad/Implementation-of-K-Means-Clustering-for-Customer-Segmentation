@@ -9,6 +9,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 
+
 1. Import the necessary packages using import statement.
  
 2.Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
