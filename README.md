@@ -1,4 +1,4 @@
-# EX:8 Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# EXP:8 Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 Date :
 
